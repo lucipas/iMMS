@@ -1,0 +1,12 @@
+# Created by https://www.toptal.com/developers/gitignore/api/replit
+# Edit at https://www.toptal.com/developers/gitignore?templates=replit
+
+### replit ###
+# Replit config file
+.replit
+
+# Replit Nix config file
+replit.nix
+push.sh
+
+# End of https://www.toptal.com/developers/gitignore/api/replit
